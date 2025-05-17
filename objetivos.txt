@@ -1,0 +1,1 @@
+Primer objetivo: Aprender y dominar los lenguajes para poder desarrollar tanto el Front como el backend de una aplicación web
