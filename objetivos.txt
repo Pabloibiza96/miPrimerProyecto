@@ -1,2 +1,3 @@
 Primer objetivo: Aprender y dominar los lenguajes para poder desarrollar tanto el Front como el backend de una aplicación web
 Segundo objetivo: Entender y conocer el proceso de un proyecto, de principio a fin. Desde la creación, hasta el despliegue y mantenimiento.
+Tercer objetivo: Poder acercarme a los requisitos del mundo profesional en este sector y poder adentrarme en un puesto profesional como desarrollador
